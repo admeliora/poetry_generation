@@ -1,0 +1,4 @@
+Impact: 2.063291
+Poeticism: 2.721519
+Originality: 4.189873
+Turing: 4.316456
